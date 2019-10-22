@@ -7,8 +7,8 @@ The reason of this application is to show a easy way to make and MVC REST API wi
 .Insomnia(Organize CRUD routes);
 
 # Node modules
-All dependences are at package.json;
-.express (routes controller, ./src/routes.js)
-.mongoose (MongoDB)
-.mongoose-paginate (MongoDB pagination plugin. ./src/models/Products.js line 2 ~ 23)
+All dependences are at package.json;\n
+.express (routes controller, ./src/routes.js)\n
+.mongoose (MongoDB)\n
+.mongoose-paginate (MongoDB pagination plugin. ./src/models/Products.js line 2 ~ 23)\n
 .require-dir (to clean the code, it require all files at a specific folder. server.js line 16)
