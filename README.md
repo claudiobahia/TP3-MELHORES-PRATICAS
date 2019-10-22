@@ -1,5 +1,5 @@
 <h1> My-NodeJS-REST-API </h1>
-<h2> App only for study purpose; </h2>
+<strike> App only for study purpose; </strike>
 <p> The reason of this application is to show a easy way to make and MVC REST API with Javascript. </p>
 
 <h1> Required </h1>
