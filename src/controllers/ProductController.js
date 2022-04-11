@@ -8,7 +8,7 @@ module.exports = {
 
         return response.json(products);
     },
-
+ 
     async show(request, response) {
         const product = await Product.findById(request.params.id);
         return response.json(product);

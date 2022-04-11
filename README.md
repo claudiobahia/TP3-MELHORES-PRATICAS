@@ -12,3 +12,4 @@
 <p> .mongoose (MongoDB) </p>
 <p> .mongoose-paginate (MongoDB pagination plugin. ./src/models/Products.js line 2 ~ 23) </p>
 <p> .require-dir (to clean the code, it catch all required files at a specific folder. server.js line 16) </p>
+ 
